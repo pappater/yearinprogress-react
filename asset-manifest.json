@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yearinprogress-react/static/css/main.17f93193.chunk.css",
+    "main.js": "/yearinprogress-react/static/js/main.3dc3a02f.chunk.js",
+    "main.js.map": "/yearinprogress-react/static/js/main.3dc3a02f.chunk.js.map",
+    "runtime-main.js": "/yearinprogress-react/static/js/runtime-main.bc12a849.js",
+    "runtime-main.js.map": "/yearinprogress-react/static/js/runtime-main.bc12a849.js.map",
+    "static/css/2.35f98baf.chunk.css": "/yearinprogress-react/static/css/2.35f98baf.chunk.css",
+    "static/js/2.e1d12a69.chunk.js": "/yearinprogress-react/static/js/2.e1d12a69.chunk.js",
+    "static/js/2.e1d12a69.chunk.js.map": "/yearinprogress-react/static/js/2.e1d12a69.chunk.js.map",
+    "index.html": "/yearinprogress-react/index.html",
+    "precache-manifest.a34ebb052f157e5ff612202fca3b67c5.js": "/yearinprogress-react/precache-manifest.a34ebb052f157e5ff612202fca3b67c5.js",
+    "service-worker.js": "/yearinprogress-react/service-worker.js",
+    "static/css/2.35f98baf.chunk.css.map": "/yearinprogress-react/static/css/2.35f98baf.chunk.css.map",
+    "static/css/main.17f93193.chunk.css.map": "/yearinprogress-react/static/css/main.17f93193.chunk.css.map",
+    "static/js/2.e1d12a69.chunk.js.LICENSE": "/yearinprogress-react/static/js/2.e1d12a69.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc12a849.js",
+    "static/css/2.35f98baf.chunk.css",
+    "static/js/2.e1d12a69.chunk.js",
+    "static/css/main.17f93193.chunk.css",
+    "static/js/main.3dc3a02f.chunk.js"
+  ]
+}
